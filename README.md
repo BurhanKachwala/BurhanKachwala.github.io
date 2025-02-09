@@ -1,9 +1,13 @@
 # Burhanuddin Kachwala
 **Sr. Laravel + Vue.Js Developer**
 
-**Mobile:** +919824789666  
-**Email:** [kachwalabh@gmail.com](mailto:kachwalabh@gmail.com)
-**Location:** Ahmedabad, Gujarat, India 
+---
+
+## Contact Information
+
+- **Phone:** [+91 9824789666](tel:+919824789666)  
+- **Email:** [kachwalabh@gmail.com](mailto:kachwalabh@gmail.com)  
+- **Location:** Ahmedabad, Gujarat, India
 
 ---
 
