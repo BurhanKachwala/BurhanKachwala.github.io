@@ -1,7 +1,9 @@
 # Burhanuddin Kachwala
+**Sr. Laravel + Vue.Js Developer**
 
 **Mobile:** +919824789666  
 **Email:** [kachwalabh@gmail.com](mailto:kachwalabh@gmail.com)
+**Location:** Ahmedabad, Gujarat, India 
 
 ---
 
@@ -12,80 +14,66 @@ I am a graduate in Information Technology with 5 years of professional experienc
 ---
 
 ## **Skills**
-
-- **AWS Services:** S3 bucket, RDS, EC2, Elastic IP, AWS Lambda
-- **Frameworks:** Laravel, Vue.js
-- **Languages:** PHP, JavaScript, HTML, CSS
-- **Payment Gateways:** Paystack, PhonePe, Flutterwave, Stripe, Momo
-- **API Integrations:** OpenAI, Doordash, Porter
-- **Email & OTP Services:** SendGrid, Zoho, Alpha SMS
-- **Database Optimization:** Advanced query techniques
-- **Server Management:** Server configuration and management for optimal performance
-- **Tools:** Git, Composer, npm, Postman
+- **Technical:** System Development, Performance Optimization, Security, Unit Testing, Debugging, Git, Agile Methodologies  
+- **Soft:** Teamwork, Leadership, Task Management, Effective Communication, Critical & Analytical Thinking, Attention to Detail 
 
 ---
 
-## **Experience**
+## **Services & Integrations**
+
+- **Languages & Frameworks:** PHP, JavaScript, HTML, CSS, Laravel, Vue.js
+- **Payment Gateways:** Swish, HyperPay, Paytm, Paystack, PhonePe, Flutterwave, Stripe etc.
+- **API Integrations:** OpenAI, Doordash, Porter, Petpooja etc.
+- **Email & SMS Services:** SendGrid, Zoho, Alpha SMS
+- **Database Management:** MySQL, PostgreSQL, MongoDB, Advanced query (Triggers, DB transactions) optimization
+- **Server Management:** AWS & GCP Services
+- **AWS Services:** S3 bucket, RDS, EC2, Elastic IP, AWS Lambda
+- **Tools:** Git, Composer, npm, Postman, VS Code
+
+---
+
+## **Work Experience**
 
 ### **Sr. Web Developer**  
 **iCoderz Solutions Pvt. Ltd.**  
-*Duration:* [Start Date] – [End Date]
+*Duration:* [06-2022] – Present
 
-- Worked on AI-driven projects like **Leaves**, integrating **AWS** and **OpenAI** for cloud storage and dynamic content generation.
-- Developed backend systems for **Sonik Mobility**, focusing on **EV charging points**.
-- Managed client support, server configuration, and integrated **payment gateways** like Paystack and Stripe for secure transactions in **Deonde**.
-- Developed a modular **Vue.js** file upload system and optimized backend code for better performance.
-- Enhanced user experience and streamlined operations for clients through efficient **server management** and **database optimization**.
+- Worked on the **AI-driven Multimedia Anthology System**, focusing on database design, CMS development, and integrating AWS and OpenAI services.
+- Developed **EV charging station management** systems, including database design, CMS development, and API design for the mobile app.
+- Managed a **Food Delivery Management SaaS** with vendor and enterprise onboarding, dedicated cloud infrastructure, and continuous integration of new payment gateways, delivery partners, and services.
 
 ### **PHP Developer**  
-**OTFCoder**  
-*Duration:* [Start Date] – [End Date]
+**OTFCoder Pvt. Ltd.**  
+*Duration:* [12-2020] – [09-2022]
 
-- Contributed to the development of a **healthcare platform**, handling backend features, support tickets, and technical issue resolution.
-- Played a key role in implementing new features to enhance platform functionality and performance.
-- Focused on providing seamless user experience for healthcare providers and patients.
-- Assisted in maintaining platform stability through timely issue resolution and feature updates.
+- Contributed to the development of a **Healthcare Platform** by handling country-specific requisites, processing and evaluating sample health data, generating health reports, while implementing new features to enhance functionality, ensuring a seamless user experience for healthcare providers and patients, and maintaining platform stability through timely updates and issue resolution.
+
 
 ### **PHP Developer**  
 **XcelTec Interactive Private Limited (A CMMI Level 3 Company)**  
-*Duration:* [Start Date] – [End Date]
+*Duration:* [06-2020] – [12-2020]
 
-- Developed **APIs** in **Laravel** for **HRMS** platform to ensure smooth integration across various modules.
-- Introduced new concepts and features within **Laravel** to enhance functionality and system flexibility.
-- Worked on backend solutions to improve HR management processes and **system performance**.
-- Focused on delivering scalable and adaptable backend solutions, contributing to streamlining HR operations.
+- Developed APIs in Laravel for the HRMS platform to enable seamless module integration, introduced features like Employee Check-in/Checkout and a Leave Management module to enhance system capabilities, enhance SQL queries to improve performance, and delivered scalable solutions to streamline operations.
 
 ---
 
 ## **Education**
+### M.C.A  
+*December 2017 — January 2020*  
+**GLS Institute of Computer Technology (MCA Program) (SFI)-Ahmedabad 509**
 
-- **Bachelor of Technology** in Information Technology  
-  [University Name], [Year of Graduation]
-
----
-
-## **Tools & Integrations**
-
-- **AWS Services:** S3 bucket, RDS database service, EC2, Elastic IP, AWS Lambda
-- **OpenAI:** Integrated Open-AI API for AI-driven content generation
-- **Vue.js:** Developed a modular file upload system
-- **Laravel:** Optimized backend performance and queries
-- **Payment Gateway APIs:** Integrated Paystack, PhonePe, Flutterwave, Stripe, Momo, etc.
-- **Delivery Service APIs:** Integrated Doordash and Porter
-- **Email & OTP Services:** SendGrid, Zoho, Alpha SMS
-- **Database Optimization:** Advanced query techniques for performance
-- **Server Management Tools:** Configured servers for client-specific needs
-
----
-
-## **Certifications**
-
-- [Certification Name] – [Issuing Organization]
-- [Certification Name] – [Issuing Organization]
+### B.C.A  
+*July 2014 — December 2017*  
+**Bhavans' Shree H.J Doshi Information Technology Institute – Saurashtra University**  
+ 
+### H.S.C  
+*June 2013 — March 2014*  
+**St. Francis Higher Secondary School**  
 
 ---
 
 ## **Languages**
 
 - English (Fluent)
-- [Other Languages] (Level)
+- Gujarati (Native Speaker)
+- Hindi (Native Speaker)
