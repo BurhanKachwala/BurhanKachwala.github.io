@@ -7,7 +7,7 @@
 
 ## **Summary**
 
-I am a graduate in Information Technology with 5 years of professional experience in web development. I have specialized in Laravel and Vue.js, gaining in-depth knowledge of both frameworks and developing scalable, user-friendly applications. My expertise in PHP, particularly with Laravel, combined with my experience in Vue.js, has shaped my passion for full-stack development. I am committed to advancing my career as a Laravel Developer, continuously learning and adapting to industry trends.
+I am a graduate in Information Technology with 5 years of professional experience in web development. I have specialized in Laravel and Vue.js, developing scalable, user-friendly applications, and my expertise in PHP, particularly with Laravel, has fueled my passion for full-stack development. I am committed to advancing my career as a Laravel Developer, continuously learning and adapting to industry trends.
 
 ---
 
