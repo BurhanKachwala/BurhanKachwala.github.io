@@ -6,12 +6,13 @@
 ## Contact Information
 
 - **Phone:** [+91 9824789666](tel:+919824789666)  
-- **Email:** [kachwalabh@gmail.com](mailto:kachwalabh@gmail.com)  
+- **Email:** [kachwalabh@gmail.com](mailto:kachwalabh@gmail.com)
+- **LinkedIn** [/in/burhan-kachwala-89311b165](https://www.linkedin.com/in/burhan-kachwala-89311b165)
 - **Location:** Ahmedabad, Gujarat, India
 
 ---
 
-## **Summary**
+## **Professional Summary**
 
 I am a graduate in Information Technology with 5 years of professional experience in web development. I have specialized in Laravel and Vue.js, developing scalable, user-friendly applications, and my expertise in PHP, particularly with Laravel, has fueled my passion for full-stack development. I am committed to advancing my career as a Laravel Developer, continuously learning and adapting to industry trends.
 
@@ -25,14 +26,14 @@ I am a graduate in Information Technology with 5 years of professional experienc
 
 ## **Services & Integrations**
 
-- **Languages & Frameworks:** PHP, JavaScript, HTML, CSS, Laravel, Vue.js
+- **Languages & Frameworks:** PHP, JavaScript, HTML, CSS, Laravel, Vue.js 
 - **Payment Gateways:** Swish, HyperPay, Paytm, Paystack, PhonePe, Flutterwave, Stripe etc.
 - **API Integrations:** OpenAI, Doordash, Porter, Petpooja etc.
 - **Email & SMS Services:** SendGrid, Zoho, Alpha SMS
 - **Database Management:** MySQL, PostgreSQL, MongoDB, Advanced query (Triggers, DB transactions) optimization
-- **Server Management:** AWS & GCP Services
+- **Cloud & Server Management:** AWS (S3, EC2, Lambda, RDS), Google Cloud Platform (GCP), DigitalOcean
 - **AWS Services:** S3 bucket, RDS, EC2, Elastic IP, AWS Lambda
-- **Tools:** Git, Composer, npm, Postman, VS Code
+- **Tools:** Composer, npm, Postman, Visual Studio Code, Laravel Forge, AWS Console
 
 ---
 
@@ -62,15 +63,15 @@ I am a graduate in Information Technology with 5 years of professional experienc
 ---
 
 ## **Education**
-### M.C.A  
+### Master of Computer Applications (M.C.A)
 *December 2017 — January 2020*  
 **GLS Institute of Computer Technology (MCA Program) (SFI)-Ahmedabad 509**
 
-### B.C.A  
+### Bachelor of Computer Applications (B.C.A)  
 *July 2014 — December 2017*  
 **Bhavans' Shree H.J Doshi Information Technology Institute – Saurashtra University**  
  
-### H.S.C  
+### Higher Secondary Certificate (H.S.C) 
 *June 2013 — March 2014*  
 **St. Francis Higher Secondary School**  
 
@@ -79,5 +80,5 @@ I am a graduate in Information Technology with 5 years of professional experienc
 ## **Languages**
 
 - English (Fluent)
-- Gujarati (Native Speaker)
-- Hindi (Native Speaker)
+- Gujarati (Native)
+- Hindi (Native)
